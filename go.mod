@@ -1,4 +1,4 @@
-module gotools
+module github.com/AndreRijo/go-tools
 
 go 1.20
 
